@@ -27,7 +27,6 @@ Schema:
 - Features removed or functionality disabled
 
 Notes:
-1. If in between version's use Version - Date
 1. **Create a `CHANGELOG.md` file** at the root of your GitHub repository.
 2. **Update the changelog** whenever you make changes, following the categories (Added, Changed, Fixed, Deprecated, Removed).
 3. **Keep the `[Unreleased]` section** updated until you create a new version release.

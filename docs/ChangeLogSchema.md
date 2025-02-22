@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ---
 
 Schema: 
-## [Unreleased]
+## [Unreleased] | If Version - ## [Version x.x.x] |  - [YYYY-MM-DD]
 
 ### Added
 - Feature description or enhancement
@@ -27,6 +27,7 @@ Schema:
 - Features removed or functionality disabled
 
 Notes:
+1. If in between version's use Version - Date
 1. **Create a `CHANGELOG.md` file** at the root of your GitHub repository.
 2. **Update the changelog** whenever you make changes, following the categories (Added, Changed, Fixed, Deprecated, Removed).
 3. **Keep the `[Unreleased]` section** updated until you create a new version release.
